@@ -1,0 +1,23 @@
+.index {
+  color: limegreen;  
+}
+
+ul { 
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;  
+}
+
+li {
+  position: relative;
+}
+
+.index::before {
+  content: "\100";
+  color: inherit;
+  padding-right: 4px;
+  position: relative;
+  top: 1px;
+}

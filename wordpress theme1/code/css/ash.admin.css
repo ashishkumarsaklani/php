@@ -1,0 +1,20 @@
+/*
+
+@package ash_theme
+===============================================
+	aDMIN Css
+===============================================
+
+*/
+
+.ash-general-form,.ash-sidebar-preview { display: inline-blog ; float: left;}
+
+.ash-sidebar-preview { width: 280px; background-color : #1f1f1f ; padding: 20px; text-align: center; margin-right: 20px; }
+.ash-sidebar{display: block;text-align: center;}
+h1.ash-username,h2.ash-details{ font-weight: 100 ; color: #fff ; }
+
+/*h1 .ash-username{font-size: 24px ; margin: 0 0 10px; }
+h2 .ash-details{font-size: 13px; margin: 0 0 20px; }
+*/
+.image-container {display : block; width : 100% overflow:hidden ; text-align: center;}
+.profile-picture{width : 100% ; height: 200px ; overflow : hidden ; border-radius: 50% ;margin : 20px auto ; background-position : center ; background-repeat: no-repeat; background-size: cover ;}
